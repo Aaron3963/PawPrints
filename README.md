@@ -1,5 +1,6 @@
 # Congratulations!🎉🎉🎉
 ![image](Winner_Accouncement.png)
+## You can find our presentation slides [[here](https://docs.google.com/presentation/d/118LGFaszP6kukI__wXZHIxbJkW0p849pXG6Tow9E720/edit?usp=sharing)].
 # Getting Started with PawPrints
 
 PawPrints is a blockchain-powered platform for pet medical data tracking and sharing. It connects pet owners, clinics, and insurance companies, providing a seamless interface for managing pet medical data. This guide will take you through setting up PawPrints for development on your local machine.
